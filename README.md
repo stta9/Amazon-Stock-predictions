@@ -34,7 +34,7 @@ df.isnull().sum()
 ```
 
 ## Modeling and testing
-The following models are used for stock price prediction: Random Forest Regressor and Gradient Boosting Regressor.RMSE is calculated for performance evaluation for both of the models.
+The following models are used for stock price prediction: Random Forest Regressor and Gradient Boosting Regressor. RMSE is calculated for performance evaluation for both of the models.
 
 ```python
 # Prepare features and target
